@@ -7,7 +7,7 @@
   </a>
 
   <a>
-    <img alt="Bash" src="https://img.shields.io/badge/bash%20script-0101?style=flat&amp;logo=gnubash&amp;logoColor=%23FFFFFF&amp;labelColor=%23000000">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 
   <a>
@@ -20,15 +20,7 @@
 
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&amp;logoColor=white">
-  </a>
-    
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&amp;logoColor=white">
-  </a>
-   
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&amp;logoColor=white">
-  </a>
+  </a> 
 </p>
 
 <hr>
