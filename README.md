@@ -23,7 +23,7 @@
   </a>
 
   <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&amp;logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a> 
 </p>
 
