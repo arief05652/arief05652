@@ -31,6 +31,7 @@
   </a> 
 </p>
 
+<!--
 <hr>
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=arief05652&amp;show_icons=true&amp;count_private=true&amp;theme=darcula&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000">
