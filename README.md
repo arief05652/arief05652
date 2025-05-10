@@ -1,7 +1,7 @@
 <!-- <p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p> -->
 <p><img align="right" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png"></p>
 <!-- <h2 id="my-tech-stack">My tech stack</h2> -->
-<p align="left">  
+<p align="center">  
    <a>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
