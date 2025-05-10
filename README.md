@@ -1,5 +1,5 @@
 <!-- <p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p> -->
-<p><img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></p>
+<p><img align="right" src="https://www.wallpaperengine.space/gif/funny-one-piece-crew-moment"></p>
 <h2 id="my-tech-stack">My tech stack</h2>
 <p align="left">  
    <a>
