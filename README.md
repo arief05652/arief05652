@@ -14,11 +14,7 @@
   </a>
 
   <a>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-
-  <a>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
+    <img alt="MySql" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
   <a>
