@@ -1,1 +1,1 @@
-> Saya suka mempelajari hal baru.
+> Haloo 😁🤚.
