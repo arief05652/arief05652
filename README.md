@@ -3,5 +3,5 @@
 
 ---
 
-saya suka belajar dan memahami bagaimana suatu sistem bekerja, walaupun nanti-nya lupa lagi 
-tapi saya sangat suka mengulang suatu topik sampai sangat paham 😁
+saya suka belajar dan memahami bagaimana suatu sistem bekerja, walaupun nanti-nya lupa lagi 😁
+tapi saya sangat suka mengulang suatu topik sampai sangat paham 😎
