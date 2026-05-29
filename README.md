@@ -1,16 +1,15 @@
-## Hi there 👋
+#### Flet Extension
 
-<!--
-**arief05652/arief05652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- **flet-fonts** kamu bisa menggunakan banyak font yang disediakan google dengan mudah\
+  ![PyPI - Version](https://img.shields.io/pypi/v/flet-fonts) ![PyPI - Downloads](https://img.shields.io/pypi/dm/flet-fonts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **flet-lucid** kamu bisa memanfaatkan icon yang kaya disediakan oleh lucid\
+  ![PyPI - Version](https://img.shields.io/pypi/v/flet-lucid) ![PyPI - Downloads](https://img.shields.io/pypi/dm/flet-lucid)
+
+- **expand-fab** floating action button yang multifungsi dan sangat berguna untuk flet app kamu\
+  ![PyPI - Version](https://img.shields.io/pypi/v/expand-fab) ![PyPI - Downloads](https://img.shields.io/pypi/dm/expand-fab)
+
+- **flet-blurhash** dengan menggunakan ini kamu bisa membuat gambar menjadi blur dengan smooth\
+  ![PyPI - Version](https://img.shields.io/pypi/v/flet-blurhash) ![PyPI - Downloads](https://img.shields.io/pypi/dm/flet-blurhash)
